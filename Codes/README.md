@@ -2,5 +2,6 @@
 The nootbooks are orginally written in Google Colab. 
 Due to the heavy memory usage of some notebooks, I advice you to run them in Colab to avoid system crashes.
 To run the notebooks in colab please add the folder with the following address to your Google Drive: 
-Public Folder Access: https://drive.google.com/drive/folders/1TYCDAJOCiLZw4TObcLac5GnL5YtwYnUD?usp=sharing
+Public Folder Access: https://drive.google.com/drive/folders/1TYCDAJOCiLZw4TObcLac5GnL5YtwYnUD?usp=sharing \\
+Descriptions are provided on the top cells of every notebook. 
 
